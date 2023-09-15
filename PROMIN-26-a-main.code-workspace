@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../png"
+		},
+		{
+			"path": "../png/Objects"
+		},
+		{
+			"path": "../png/Tiles"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PROMIN-26-a-main"
+	}
+}
